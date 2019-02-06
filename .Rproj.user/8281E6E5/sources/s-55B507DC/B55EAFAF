@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549159530212.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B55EAFAF",
+    "lastKnownWriteTime" : 1549164416,
+    "last_content_update" : 1549164416227,
+    "path" : "~/Documents/Docs/Data Science/R/Projects/Tidy_data/textMining.R",
+    "project_path" : "textMining.R",
+    "properties" : {
+        "cursorPosition" : "146,29",
+        "scrollLine" : "136",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
